@@ -13,7 +13,7 @@ LCD Display on FPGA - 4 bit mode - Deploy on ZuBoard 1CG
 
 ## III. Block Diagram
 
-![block_diagram](./images/block_diagram.jpg)
+![block_diagram](./images/block_diagram.png)
 
 ## IV. Ref
 
