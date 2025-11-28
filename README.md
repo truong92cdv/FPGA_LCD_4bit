@@ -9,7 +9,7 @@ LCD Display on FPGA - 4 bit mode - Deploy on ZuBoard 1CG
 
 ## II. Result
 
-![fpga_lcd](./images/fpga_lcd.jpg)
+![demo](./images/demo.jpg)
 
 ### III. Ref
 
