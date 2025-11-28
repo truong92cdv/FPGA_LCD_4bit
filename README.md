@@ -15,6 +15,8 @@ LCD Display on FPGA - 4 bit mode - Deploy on ZuBoard 1CG
 
 ![block_diagram](./images/block_diagram.png)
 
+![top_diagram](./images/top_diagram.png)
+
 ## IV. Ref
 
 https://github.com/wgwozdz/Spartan_LCD
